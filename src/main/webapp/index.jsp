@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "welocome to department of cse!" %></h2>
+<h2><%= "Devops Course" %></h2>
 </body>
 </html>
